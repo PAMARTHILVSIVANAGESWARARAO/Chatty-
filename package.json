@@ -9,5 +9,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prismjs": "^1.30.0",
+    "react-syntax-highlighter": "^15.6.6"
+  }
 }
